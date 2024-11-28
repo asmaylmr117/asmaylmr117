@@ -35,21 +35,21 @@ Hi! I'm Mostafa Ismail  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia
 ## Stats:
 <p align="center">
 <p align="left">
-  <a href="https://github.com/aknafea01">
+  <a href="https://github.com/asmaylmr117">
     <img src="https://komarev.com/ghpvc/?username=aknafea01&color=0d1117" alt="views" />
   </a>
   <a href="https://www.hackerrank.com/profile/nafeaworks">
     <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-20+-green?color=0d1117&logo=hackerrank">
   </a>
-  <a href="https://github.com/aknafea01?tab=followers">
+  <a href="https://github.com/asmaylmr117?tab=followers">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/aknafea01?color=0d1117&logo=github">
   </a>
-    <a href="https://web.facebook.com/ahmed.hosney.18007218">
+    <a href="https://www.facebook.com/mostafa.enani.71">
     <img alt="Facebook friends" src="https://img.shields.io/badge/friends-4.5K-blue?color=0d1117&logo=facebook">
   </a>
-  <a href="https://www.linkedin.com/in/ahmed-nafea01/">
+  <a href="https://www.linkedin.com/in/mostafa-ismail-alanani-657228259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsEHEwNQfQwaEwJnzMlv0Bw%3D%3D">
     <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-453-blue?color=0d1117&logo=linkedin">
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aknafea01&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
