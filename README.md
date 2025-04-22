@@ -58,3 +58,39 @@ with the latest modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
+## 🚀 Projects
+
+### 🔹 [QuizTime App](https://github.com/asmaylmr117/quiztime-app)
+An online quiz platform for teachers and students.  
+Built with **React.js**, **Node.js**, and **MongoDB**.
+
+- 👨‍🏫 Teachers can create and manage quizzes.
+- 👩‍🎓 Students can answer questions and view results.
+- 📊 Real-time result display with performance feedback.
+
+![QuizTime Preview](https://user-images.githubusercontent.com/your-image-path/quiztime-preview.png)
+
+---
+
+### 🔹 [Pharmacy Finder](https://github.com/asmaylmr117/pharmacy-finder)
+A website to search for the nearest pharmacy with the required medicine.  
+Built using **React.js**, **Node.js**, and **MongoDB**.
+
+- 🔍 Search by drug name or image.
+- 🏥 Pharmacies can register and manage their available medications.
+- 📍 Location-based search functionality.
+
+![Pharmacy Finder Preview](https://user-images.githubusercontent.com/your-image-path/pharmacy-preview.png)
+
+---
+
+### 🔹 [E-Commerce Website](https://github.com/asmaylmr117/ecommerce-tailwind)
+A full-featured e-commerce website using **React.js** and **Tailwind CSS**.
+
+- 🛒 Dynamic shopping cart with product counter.
+- 🔐 Authentication system for login and registration.
+- 💳 Checkout form with product and price submission.
+
+![E-Commerce Website Preview](https://user-images.githubusercontent.com/your-image-path/ecommerce-preview.png)
+
+---
