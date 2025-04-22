@@ -58,8 +58,8 @@ with the latest modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
----
-**Projects**
+
+<h1>Projects</h1>
 
 🔹 **1. Amazon Clone**  
 A dynamic e-commerce platform inspired by Amazon, offering a seamless shopping experience with robust functionality.  
