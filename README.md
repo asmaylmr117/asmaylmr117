@@ -58,39 +58,79 @@ with the latest modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
-## 🚀 Projects
+🚀 My Top Projects
+Welcome to my portfolio of top projects! Below is a curated list of my best work, showcasing my skills in web development, UI/UX design, and more. Each project includes a brief description, the technologies used, and links to the GitHub repository and live demo (where available).
 
-### 🔹 [QuizTime App](https://github.com/asmaylmr117/quiztime-app)
-An online quiz platform for teachers and students.  
-Built with **React.js**, **Node.js**, and **MongoDB**.
-
-- 👨‍🏫 Teachers can create and manage quizzes.
-- 👩‍🎓 Students can answer questions and view results.
-- 📊 Real-time result display with performance feedback.
-
-![QuizTime Preview](https://user-images.githubusercontent.com/your-image-path/quiztime-preview.png)
-
+🔹 1. Amazon Clone
+A fully functional e-commerce website inspired by Amazon, featuring product listings, a shopping cart, and user authentication.
+Technologies:HTML5 CSS3 Tailwind CSS JavaScript React.js Redux Redux Toolkit react Form hook Yup 
+Features:
+Browse an extensive collection of products from all categories.
+Add items to your cart and place orders effortlessly.
+Secure online payments powered by Stripe.
+Responsive design for all screen sizes and devices.
+Smooth and interactive user experience using React and Redux Toolkit.
+Repository: [https://github.com/asmaylmr117/Amazon-clone]
+Live Demo: [https://amazon-clone-theta-dun.vercel.app/]
+---
+🔹 2. Furniture Store
+An elegant e-commerce platform for a furniture store, designed with a focus on user experience and responsive design.
+Technologies: HTML5, CSS3, Tailwind CSS, TypeScript, NEXT.TS 
+Features:
+Product categories and detailed views
+Add-to-cart functionality
+Responsive design for mobile and desktop
+Repository: [https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main]
+Live Demo: [https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/]
+---
+🔹 3. Dashboard Admin
+A powerful admin dashboard for managing data, with interactive charts and a clean, modern interface.
+Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
+Features:
+Real-time data visualization
+User management and role-based access
+Customizable widgets
+Repository: [https://github.com/asmaylmr117/Dashboard-Admin]
+Live Demo: [https://dashboard-admin-wine.vercel.app/]
+---
+🔹 4. Shop Clothes
+A stylish online clothing store with a focus on seamless navigation and a visually appealing design.
+Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
+Features:
+Product filtering by category, size, and price
+Secure checkout process
+Repository: [https://github.com/asmaylmr117/Dashboard-Admin]
+Live Demo: [https://dashboard-admin-wine.vercel.app/]
+---
+🔹 5. Religious Site
+A spiritual platform offering Quran recitations, prayers, supplications, and an electronic rosary, designed to promote peace and devotion.
+Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js 
+Features:
+Audio recitations by renowned sheikhs
+Multilingual support with Arabic translation
+Interactive electronic rosary
+Repository: [https://github.com/asmaylmr117/GANA.]
+Live Demo: [https://gana-2fau.vercel.app/]
+---
+🔹 6. Music Store
+A web application for managing a musical instrument inventory, with a user-friendly interface for browsing and purchasing products.
+Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
+Features:
+Inventory management for musical instruments
+Product search and categorization
+Responsive design for all devices
+Repository: [https://github.com/asmaylmr117/music-Store]
+Live Demo: [https://music-store-rho.vercel.app/]
+---
+🔹 7. Tourism Site
+A vibrant tourism website showcasing destinations, with a carousel, translation features, and a responsive layout.
+Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js
+Features:
+Interactive carousel for featured destinations
+Multilingual support for global users
+News and travel tips section
+Repository: [https://github.com/asmaylmr117/tourism-site]
+Live Demo: [https://tourism-site-six.vercel.app/]
 ---
 
-### 🔹 [Pharmacy Finder](https://github.com/asmaylmr117/pharmacy-finder)
-A website to search for the nearest pharmacy with the required medicine.  
-Built using **React.js**, **Node.js**, and **MongoDB**.
 
-- 🔍 Search by drug name or image.
-- 🏥 Pharmacies can register and manage their available medications.
-- 📍 Location-based search functionality.
-
-![Pharmacy Finder Preview](https://user-images.githubusercontent.com/your-image-path/pharmacy-preview.png)
-
----
-
-### 🔹 [E-Commerce Website](https://github.com/asmaylmr117/ecommerce-tailwind)
-A full-featured e-commerce website using **React.js** and **Tailwind CSS**.
-
-- 🛒 Dynamic shopping cart with product counter.
-- 🔐 Authentication system for login and registration.
-- 💳 Checkout form with product and price submission.
-
-![E-Commerce Website Preview](https://user-images.githubusercontent.com/your-image-path/ecommerce-preview.png)
-
----
