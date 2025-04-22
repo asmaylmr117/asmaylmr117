@@ -58,7 +58,8 @@ with the latest modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
-### My Top Projects  
+### My Top Projects:
+
 🔹 **1. Amazon Clone**  
 A dynamic e-commerce platform inspired by Amazon, offering a seamless shopping experience with robust functionality.  
 **Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit, React Form Hook, Yup  
