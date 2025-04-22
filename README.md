@@ -58,79 +58,96 @@ with the latest modern technologies.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
 </p>
-🚀 My Top Projects
-Welcome to my portfolio of top projects! Below is a curated list of my best work, showcasing my skills in web development, UI/UX design, and more. Each project includes a brief description, the technologies used, and links to the GitHub repository and live demo (where available).
+🚀 My Top Projects  
+Welcome to my portfolio of top projects! Below is a curated showcase of my finest work, demonstrating expertise in web development, UI/UX design, and modern technologies. Each project includes a concise description, technologies used, key features, and links to the GitHub repository and live demo.
 
-🔹 1. Amazon Clone
-A fully functional e-commerce website inspired by Amazon, featuring product listings, a shopping cart, and user authentication.
-Technologies:HTML5 CSS3 Tailwind CSS JavaScript React.js Redux Redux Toolkit react Form hook Yup 
-Features:
-Browse an extensive collection of products from all categories.
-Add items to your cart and place orders effortlessly.
-Secure online payments powered by Stripe.
-Responsive design for all screen sizes and devices.
-Smooth and interactive user experience using React and Redux Toolkit.
-Repository: [https://github.com/asmaylmr117/Amazon-clone]
-Live Demo: [https://amazon-clone-theta-dun.vercel.app/]
----
-🔹 2. Furniture Store
-An elegant e-commerce platform for a furniture store, designed with a focus on user experience and responsive design.
-Technologies: HTML5, CSS3, Tailwind CSS, TypeScript, NEXT.TS 
-Features:
-Product categories and detailed views
-Add-to-cart functionality
-Responsive design for mobile and desktop
-Repository: [https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main]
-Live Demo: [https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/]
----
-🔹 3. Dashboard Admin
-A powerful admin dashboard for managing data, with interactive charts and a clean, modern interface.
-Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
-Features:
-Real-time data visualization
-User management and role-based access
-Customizable widgets
-Repository: [https://github.com/asmaylmr117/Dashboard-Admin]
-Live Demo: [https://dashboard-admin-wine.vercel.app/]
----
-🔹 4. Shop Clothes
-A stylish online clothing store with a focus on seamless navigation and a visually appealing design.
-Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
-Features:
-Product filtering by category, size, and price
-Secure checkout process
-Repository: [https://github.com/asmaylmr117/Dashboard-Admin]
-Live Demo: [https://dashboard-admin-wine.vercel.app/]
----
-🔹 5. Religious Site
-A spiritual platform offering Quran recitations, prayers, supplications, and an electronic rosary, designed to promote peace and devotion.
-Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js 
-Features:
-Audio recitations by renowned sheikhs
-Multilingual support with Arabic translation
-Interactive electronic rosary
-Repository: [https://github.com/asmaylmr117/GANA.]
-Live Demo: [https://gana-2fau.vercel.app/]
----
-🔹 6. Music Store
-A web application for managing a musical instrument inventory, with a user-friendly interface for browsing and purchasing products.
-Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit
-Features:
-Inventory management for musical instruments
-Product search and categorization
-Responsive design for all devices
-Repository: [https://github.com/asmaylmr117/music-Store]
-Live Demo: [https://music-store-rho.vercel.app/]
----
-🔹 7. Tourism Site
-A vibrant tourism website showcasing destinations, with a carousel, translation features, and a responsive layout.
-Technologies: HTML5, CSS3, Tailwind CSS, JavaScript, React.js
-Features:
-Interactive carousel for featured destinations
-Multilingual support for global users
-News and travel tips section
-Repository: [https://github.com/asmaylmr117/tourism-site]
-Live Demo: [https://tourism-site-six.vercel.app/]
+🔹 **1. Amazon Clone**  
+A dynamic e-commerce platform inspired by Amazon, offering a seamless shopping experience with robust functionality.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit, React Form Hook, Yup  
+**Features**:  
+- **Shopping Experience**: Browse diverse product categories with intuitive navigation.  
+- **Cart & Checkout**: Add items to the cart and complete orders effortlessly.  
+- **Secure Payments**: Integrated Stripe for safe online transactions.  
+- **Responsive Design**: Optimized for all devices with smooth interactions.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/Amazon-clone)  
+- [Live Demo](https://amazon-clone-theta-dun.vercel.app/)
+
 ---
 
+🔹 **2. Furniture Store**  
+A sophisticated e-commerce platform for furniture, prioritizing user-friendly design and modern aesthetics.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, TypeScript, Next.js  
+**Features**:  
+- **Product Exploration**: Browse detailed product listings with category filters.  
+- **Cart Functionality**: Easily add items to the cart for quick purchases.  
+- **Responsive Layout**: Seamless experience across mobile and desktop devices.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main)  
+- [Live Demo](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
+
+---
+
+🔹 **3. Dashboard Admin**  
+A powerful admin dashboard for data management, featuring real-time analytics and a sleek interface.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
+**Features**:  
+- **Data Visualization**: Interactive charts for real-time insights.  
+- **User Management**: Role-based access for secure administration.  
+- **Custom Widgets**: Tailorable dashboard components for flexibility.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/Dashboard-Admin)  
+- [Live Demo](https://dashboard-admin-wine.vercel.app/)
+
+---
+
+🔹 **4. Shop Clothes**  
+A trendy online clothing store designed for effortless browsing and secure shopping.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
+**Features**:  
+- **Product Filtering**: Sort by category, size, or price for quick searches.  
+- **Checkout System**: Streamlined and secure payment process.  
+- **Visual Appeal**: Modern design optimized for all screen sizes.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/Dashboard-Admin)  
+- [Live Demo](https://dashboard-admin-wine.vercel.app/)
+
+---
+
+🔹 **5. Religious Site**  
+A serene platform for spiritual growth, offering Quran recitations, prayers, and an electronic rosary.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js  
+**Features**:  
+- **Quran Recitations**: High-quality audio by renowned sheikhs.  
+- **Multilingual Support**: Arabic translation for global accessibility.  
+- **Interactive Rosary**: Digital tool for tracking supplications.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/GANA.)  
+- [Live Demo](https://gana-2fau.vercel.app/)
+
+---
+
+🔹 **6. Music Store**  
+A vibrant web application for browsing and purchasing musical instruments with an intuitive interface.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
+**Features**:  
+- **Inventory Management**: Organized product listings with search options.  
+- **User-Friendly Design**: Easy navigation for all users.  
+- **Cross-Device Support**: Fully responsive for mobile and desktop.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/music-Store)  
+- [Live Demo](https://music-store-rho.vercel.app/)
+
+---
+
+🔹 **7. Tourism Site**  
+A captivating tourism platform highlighting destinations with interactive features and multilingual support.  
+**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js  
+**Features**:  
+- **Destination Carousel**: Engaging visuals for featured locations.  
+- **Translation Support**: Multilingual interface for global travelers.  
+- **Travel Resources**: News and tips for an enriched experience.  
+**Links**:  
+- [GitHub Repository](https://github.com/asmaylmr117/tourism-site)  
+- [Live Demo](https://tourism-site-six.vercel.app/)
 
