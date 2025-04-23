@@ -109,8 +109,8 @@ A trendy online clothing store designed for effortless browsing and secure shopp
 - **Checkout System**: Streamlined and secure payment process.  
 - **Visual Appeal**: Modern design optimized for all screen sizes.  
 **Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/Dashboard-Admin)  
-- [Live Demo](https://dashboard-admin-wine.vercel.app/)
+- [GitHub Repository](https://github.com/asmaylmr117/shop.co.front)  
+- [Live Demo](https://shop-co-front.vercel.app/)
 
 ---
 
