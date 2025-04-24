@@ -2,7 +2,7 @@
 Hi! I'm Mostafa Ismail  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
 </h1>
 
-### I'm from Egypt, and I work software Engnieer, frontend developer
+### I'm from Egypt, and I work Software Engnieer, Frontend developer
 I create complete and advanced websites
 with the latest modern technologies.
 ## Skills:
