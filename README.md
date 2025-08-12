@@ -1,153 +1,150 @@
-<h1 align="left;" style="color:blue">
-Hi! I'm Mostafa Ismail  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20">
-</h1>
+# Hi there, I'm Mostafa Ismail! 👋
 
-### I'm from Egypt, and I work Software Engnieer, Full stack web developer
-I create complete and advanced websites
-with the latest modern technologies.
-## Skills:
-### technologies:
-### 1-frontend:
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)&nbsp;<br>
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)&nbsp;
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)&nbsp;
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)&nbsp;
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-### 2-Backend:
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-### IDES:
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-
-##  Contact Me
-
-<p align="left">
-    <a href="asmaylmr117@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?logo=gmail&logoColor=white" alt="Gmail"/></a>
-    <a href="https://wa.me/+201066915691"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
-    <a href="https://www.linkedin.com/in/mostafa-ismail-alanani-657228259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsEHEwNQfQwaEwJnzMlv0Bw%3D%3D"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-    <a href="https://www.facebook.com/mostafa.enani.71"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook"/></a>
-</p>
-
-## Stats:
 <p align="center">
-<p align="left">
-  <a href="https://github.com/asmaylmr117">
-    <img src="https://komarev.com/ghpvc/?username=aknafea01&color=0d1117" alt="views" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/nafeaworks">
-    <img alt="HackerRank" src="https://img.shields.io/badge/hackerrank-20+-green?color=0d1117&logo=hackerrank">
-  </a>
-  <a href="https://github.com/asmaylmr117?tab=followers">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/aknafea01?color=0d1117&logo=github">
-  </a>
-    <a href="https://www.facebook.com/mostafa.enani.71">
-    <img alt="Facebook friends" src="https://img.shields.io/badge/friends-4.5K-blue?color=0d1117&logo=facebook">
-  </a>
-  <a href="https://www.linkedin.com/in/mostafa-ismail-alanani-657228259/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BsEHEwNQfQwaEwJnzMlv0Bw%3D%3D">
-    <img alt="Linkedin followers" src="https://img.shields.io/badge/followers-453-blue?color=0d1117&logo=linkedin">
-  </a>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact)
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Web+Developer;Software+Engineer+from+Egypt;Passionate+about+Modern+Technologies" alt="Typing SVG" />
 </p>
 
-<h1> TOP Projects</h1>
+## 🚀 About Me
 
-🔹 **1. Amazon Clone**  
-A dynamic e-commerce platform inspired by Amazon, offering a seamless shopping experience with robust functionality.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit, React Form Hook, Yup  
-**Features**:  
-- **Shopping Experience**: Browse diverse product categories with intuitive navigation.  
-- **Cart & Checkout**: Add items to the cart and complete orders effortlessly.  
-- **Secure Payments**: Integrated Stripe for safe online transactions.  
-- **Responsive Design**: Optimized for all devices with smooth interactions.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/Amazon-clone)  
-- [Live Demo](https://amazon-clone-theta-dun.vercel.app/)
+I'm a passionate **Full Stack Web Developer** and **Software Engineer** from Egypt, specializing in creating complete and advanced web applications using cutting-edge technologies. I love turning ideas into reality through clean, efficient code.
+
+- 🌍 Based in Egypt
+- 💼 Currently working as a Software Engineer
+- 🎯 Focused on modern web development
+- 📚 Always learning and exploring new technologies
+
+## 🛠️ Tech Stack
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
+### Styling & UI
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Tools & IDEs
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=asmaylmr117&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=asmaylmr117&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=asmaylmr117&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+## 🌟 Featured Projects
+
+### 🏢 [Techco - Software Company Portfolio](https://software-company-mu.vercel.app/)
+A cutting-edge digital solutions provider platform designed to empower businesses with innovative IT services.
+
+**Tech Stack:** React.js, Redux Toolkit, Bootstrap, Sass, React Hook Form, Yup  
+**Features:** Responsive design, Modern UI/UX, Business solutions showcase
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/software-company)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://software-company-mu.vercel.app/)
+
+### 🛒 [Amazon Clone - E-commerce Platform](https://amazon-five-smoky.vercel.app/)
+A fully functional e-commerce platform inspired by Amazon with secure payment integration.
+
+**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS, Stripe API  
+**Features:** Shopping cart, Secure payments, Responsive design, Product management
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/Amazon-Ecommerce)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://amazon-five-smoky.vercel.app/)
+
+### 🛋️ [Furniture Store - E-commerce](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
+A sophisticated furniture e-commerce platform with modern aesthetics and user-friendly design.
+
+**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
+**Features:** Product filtering, Cart functionality, Responsive layout
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
+
+### 📊 [Admin Dashboard](https://dashboard-admin-wine.vercel.app/)
+A powerful admin dashboard featuring real-time analytics and data visualization.
+
+**Tech Stack:** React.js, Redux Toolkit, Tailwind CSS  
+**Features:** Data visualization, User management, Custom widgets
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/Dashboard-Admin)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://dashboard-admin-wine.vercel.app/)
+
+<details>
+<summary>🔍 View More Projects</summary>
+
+### 👕 [Shop.co - Clothing Store](https://shop-co-front.vercel.app/)
+Modern online clothing store with advanced filtering and secure checkout.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/shop.co.front)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://shop-co-front.vercel.app/)
+
+### 📿 [Religious Platform](https://gana-2fau.vercel.app/)
+Spiritual platform offering Quran recitations and interactive features.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/GANA.)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://gana-2fau.vercel.app/)
+
+### 🎵 [Music Store](https://music-store-rho.vercel.app/)
+Web application for browsing and purchasing musical instruments.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/music-Store)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://music-store-rho.vercel.app/)
+
+### 🏖️ [Tourism Platform](https://tourism-site-six.vercel.app/)
+Interactive tourism platform with multilingual support.
+
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/tourism-site)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://tourism-site-six.vercel.app/)
+
+</details>
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=asmaylmr117&theme=tokyo-night&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="mailto:asmaylmr117@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://wa.me/+201066915691">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-ismail-alanani-657228259">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.facebook.com/mostafa.enani.71">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
 
 ---
 
-🔹 **2. Furniture Store**  
-A sophisticated e-commerce platform for furniture, prioritizing user-friendly design and modern aesthetics.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, TypeScript, Next.js  
-**Features**:  
-- **Product Exploration**: Browse detailed product listings with category filters.  
-- **Cart Functionality**: Easily add items to the cart for quick purchases.  
-- **Responsive Layout**: Seamless experience across mobile and desktop devices.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main)  
-- [Live Demo](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
-
----
-
-🔹 **3. Dashboard Admin**  
-A powerful admin dashboard for data management, featuring real-time analytics and a sleek interface.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
-**Features**:  
-- **Data Visualization**: Interactive charts for real-time insights.  
-- **User Management**: Role-based access for secure administration.  
-- **Custom Widgets**: Tailorable dashboard components for flexibility.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/Dashboard-Admin)  
-- [Live Demo](https://dashboard-admin-wine.vercel.app/)
-
----
-
-🔹 **4. Shop Clothes**  
-A trendy online clothing store designed for effortless browsing and secure shopping.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
-**Features**:  
-- **Product Filtering**: Sort by category, size, or price for quick searches.  
-- **Checkout System**: Streamlined and secure payment process.  
-- **Visual Appeal**: Modern design optimized for all screen sizes.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/shop.co.front)  
-- [Live Demo](https://shop-co-front.vercel.app/)
-
----
-
-🔹 **5. Religious Site**  
-A serene platform for spiritual growth, offering Quran recitations, prayers, and an electronic rosary.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js  
-**Features**:  
-- **Quran Recitations**: High-quality audio by renowned sheikhs.  
-- **Multilingual Support**: Arabic translation for global accessibility.  
-- **Interactive Rosary**: Digital tool for tracking supplications.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/GANA.)  
-- [Live Demo](https://gana-2fau.vercel.app/)
-
----
-
-🔹 **6. Music Store**  
-A vibrant web application for browsing and purchasing musical instruments with an intuitive interface.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit  
-**Features**:  
-- **Inventory Management**: Organized product listings with search options.  
-- **User-Friendly Design**: Easy navigation for all users.  
-- **Cross-Device Support**: Fully responsive for mobile and desktop.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/music-Store)  
-- [Live Demo](https://music-store-rho.vercel.app/)
-
----
-
-🔹 **7. Tourism Site**  
-A captivating tourism platform highlighting destinations with interactive features and multilingual support.  
-**Technologies**: HTML5, CSS3, Tailwind CSS, JavaScript, React.js  
-**Features**:  
-- **Destination Carousel**: Engaging visuals for featured locations.  
-- **Translation Support**: Multilingual interface for global travelers.  
-- **Travel Resources**: News and tips for an enriched experience.  
-**Links**:  
-- [GitHub Repository](https://github.com/asmaylmr117/tourism-site)  
-- [Live Demo](https://tourism-site-six.vercel.app/)
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=asmaylmr117&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  
+  **💬 "Code is like humor. When you have to explain it, it's bad." - Cory House**
+</div>
