@@ -56,11 +56,21 @@ I'm a passionate **Full Stack Web Developer** and **Software Engineer** from Egy
 ### 🏢 [Techco - Software Company Portfolio](https://software-company-mu.vercel.app/)
 A cutting-edge digital solutions provider platform designed to empower businesses with innovative IT services.
 
-**Tech Stack:** React.js, Redux Toolkit, Bootstrap, Sass, React Hook Form, Yup  
-**Features:** Responsive design, Modern UI/UX, Business solutions showcase
+ **Frontend Technologies:** HTML5, CSS3, Bootstrap, Sass, JavaScript, React.js, Redux, Redux Toolkit, React Form Hook, Yup
+ **Backend Technologies:** Node.js, Express.js with 99.9% uptime, MongoDB Atlas with connection pooling supporting 1000+ concurrent connections,
+Mongoose ODM, comprehensive security (Helmet, CORS, Rate Limiting, API Key Authentication), performance optimization (Compression, Caching),
+Vercel serverless deployment
 
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/software-company)
 [![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://software-company-mu.vercel.app/)
+
+### 👕 [Shop.co - Clothing Store](https://shop-co-front.vercel.app/)
+Built a trendy online clothing store with 100+ products, featuring effortless browsing and secure checkout processing 200+ transactions.
+**Frontend Technologies:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit with optimized state management
+**Backend Technologies:** Node.js, Express.js, PostgreSQL with Neondatabase, JWT authentication securing 300+ user accounts
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/shop.co.front)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://shop-co-front.vercel.app/)
+
 
 ### 🛒 [Amazon Clone - E-commerce Platform](https://amazon-five-smoky.vercel.app/)
 A fully functional e-commerce platform inspired by Amazon with secure payment integration.
@@ -71,14 +81,14 @@ A fully functional e-commerce platform inspired by Amazon with secure payment in
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/Amazon-Ecommerce)
 [![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://amazon-five-smoky.vercel.app/)
 
-### 🛋️ [Furniture Store - E-commerce](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
-A sophisticated furniture e-commerce platform with modern aesthetics and user-friendly design.
+### [QuizAPP](https://quiz-front-t8ti.vercel.app/)
+Developed a full-stack quiz application with React + Vite frontend and Node.js + Express backend, featuring admin and student dashboards serving 200+
+students with 500+ quiz submissions.
+ **Frontend Technologies:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, React Context API, React Router, Axios
+ **Backend Technologies:** Node.js, Express.js, MongoDB, Mongoose, JWT authentication managing 50+ quizzes
 
-**Tech Stack:** Next.js, TypeScript, Tailwind CSS  
-**Features:** Product filtering, Cart functionality, Responsive layout
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/asmaylmr117-ecommerce-furniture-store-main)
-[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://asmaylmr117-ecommerce-furniture-store-main.vercel.app/)
+ [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/Quiz_front)
+[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://quiz-front-t8ti.vercel.app/)
 
 ### 📊 [Admin Dashboard](https://dashboard-admin-wine.vercel.app/)
 A powerful admin dashboard featuring real-time analytics and data visualization.
@@ -92,11 +102,6 @@ A powerful admin dashboard featuring real-time analytics and data visualization.
 <details>
 <summary>🔍 View More Projects</summary>
 
-### 👕 [Shop.co - Clothing Store](https://shop-co-front.vercel.app/)
-Modern online clothing store with advanced filtering and secure checkout.
-
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/shop.co.front)
-[![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://shop-co-front.vercel.app/)
 
 ### 📿 [Religious Platform](https://gana-2fau.vercel.app/)
 Spiritual platform offering Quran recitations and interactive features.
