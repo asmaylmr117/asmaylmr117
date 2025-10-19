@@ -68,6 +68,7 @@ Vercel serverless deployment
 Built a trendy online clothing store with 100+ products, featuring effortless browsing and secure checkout processing 200+ transactions.
 **Frontend Technologies:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, Redux, Redux Toolkit with optimized state management
 **Backend Technologies:** Node.js, Express.js, PostgreSQL with Neondatabase, JWT authentication securing 300+ user accounts
+
 [![GitHub](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github)](https://github.com/asmaylmr117/shop.co.front)
 [![Demo](https://img.shields.io/badge/Live-Demo-4CAF50?style=for-the-badge&logo=vercel)](https://shop-co-front.vercel.app/)
 
