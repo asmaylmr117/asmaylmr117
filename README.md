@@ -34,6 +34,8 @@ I'm a passionate **Full Stack Web Developer** and **Software Engineer** from Egy
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=database&logoColor=white)
+
 
 ### Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -84,7 +86,7 @@ A fully functional e-commerce platform inspired by Amazon with secure payment in
 
 ### [QuizAPP](https://quiz-front-t8ti.vercel.app/)
 Developed a full-stack quiz application with React + Vite frontend and Node.js + Express backend, featuring admin and student dashboards serving 200+
-students with 500+ quiz submissions.
+students with 500+ quiz submissions.  
  **Frontend Technologies:** HTML5, CSS3, Tailwind CSS, JavaScript, React.js, React Context API, React Router, Axios  
  **Backend Technologies:** Node.js, Express.js, MongoDB, Mongoose, JWT authentication managing 50+ quizzes
 
