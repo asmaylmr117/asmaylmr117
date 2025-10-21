@@ -35,7 +35,7 @@ I'm a passionate **Full Stack Web Developer** and **Software Engineer** from Egy
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-FF4500?style=for-the-badge&logo=database&logoColor=white)
-
+![Nest.js](https://img.shields.io/badge/Nest.js-FF4500?style=for-the-badge&logo=database&logoColor=white)
 
 ### Tools & IDEs
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
